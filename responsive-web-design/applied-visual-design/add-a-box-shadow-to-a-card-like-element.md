@@ -4,11 +4,11 @@ The `box-shadow` property applies one or more shadows to an element.
 
 The `box-shadow` property takes values for
 
-  * `offset-x` (how far to push the shadow horizontaly from tho element),
-  * `offset-y` (how for to push the shadow vertically from the element),
-  * `blur-radius`,
-  * `spread-radius` and
-  * `color`, in that order.
+- `offset-x` (how far to push the shadow horizontaly from tho element),
+- `offset-y` (how for to push the shadow vertically from the element),
+- `blur-radius`,
+- `spread-radius` and
+- `color`, in that order.
 
 The `blur-radius` and `spread-radius` values are optional.
 
@@ -17,7 +17,7 @@ Multiple box-shadows can be created by using commas to separate properties of ea
 Here's an example of the CSS to create multiple shadows with some blur, at mostly-transparent black colors:
 
 ```css
-box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px rgba(0,0,0,0.23);
+box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px rgba(0, 0, 0, 0.23);
 ```
 
 ## Example
@@ -38,9 +38,8 @@ box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px rgba(0,0,0,0.23);
     color: black;
   }
   #thumbnail {
-    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
   }
-
 
   .fullCard {
     width: 245px;
@@ -60,17 +59,31 @@ box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px rgba(0,0,0,0.23);
   <div class="cardContent">
     <div class="cardText">
       <h4>Alphabet</h4>
-      <hr>
-      <p><em>Google was founded by Larry Page and Sergey Brin while they were <u>Ph.D. students</u> at <strong>Stanford University</strong>.</em></p>
+      <hr />
+      <p>
+        <em
+          >Google was founded by Larry Page and Sergey Brin while they were
+          <u>Ph.D. students</u> at <strong>Stanford University</strong>.</em
+        >
+      </p>
     </div>
     <div class="cardLinks">
-      <a href="https://en.wikipedia.org/wiki/Larry_Page" target="_blank" class="links">Larry Page</a><br><br>
-      <a href="https://en.wikipedia.org/wiki/Sergey_Brin" target="_blank" class="links">Sergey Brin</a>
+      <a
+        href="https://en.wikipedia.org/wiki/Larry_Page"
+        target="_blank"
+        class="links"
+        >Larry Page</a
+      ><br /><br />
+      <a
+        href="https://en.wikipedia.org/wiki/Sergey_Brin"
+        target="_blank"
+        class="links"
+        >Sergey Brin</a
+      >
     </div>
   </div>
 </div>
 ```
 
-
-
 [[/index.md | Home]] [[/freecodecamp/responsive-web-design/responsive-web-design.md | Responsive Web Design]]
+[Home](/responsive-web-design/responsive-web-design.md)

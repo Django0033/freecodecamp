@@ -13,10 +13,12 @@
 * [[/freecodecamp/responsive-web-design/applied-visual-design/add-a-box-shadow-to-a-card-like-element.md | Add a box-shadow to a Card-like Element]]
 * [[/freecodecamp/responsive-web-design/applied-visual-design/decrease-the-opacity-of-an-element.md | Decrease the Opacity of an Element]]
 * [[/freecodecamp/responsive-web-design/applied-visual-design/use-the-text-transform-property-to-make-text-uppercase.md | Use the text-transform Property to Make Text Uppercase]]
-* [[/freecodecamp/responsive-web-design/applied-visual-design/set-the-font-size-for-multiple-heading-element.md | Set the font-size for Multiple Heading Elements]]
-* [[/freecodecamp/responsive-web-design/applied-visual-design/set-the-font-weight-for-multiple-heading-elements.md | Set the font-weight for Multiple Heading Elements]]
-* [[/freecodecamp/responsive-web-design/applied-visual-design/set-the-font-size-of-paragraph-text.md | Set the font-size of Paragraph Text]]
-
+* [Set the font-size for Multiple Heading Elements](./set-the-font-size-for-multiple-heading-element.md)
+* [Set the font-weight for Multiple Heading Elements](./set-the-font-weight-for-multiple-heading-elements.md)
+* [Set the font-size of Paragraph Text](./set-the-font-size-of-paragraph-text.md)
+* [Set the line-height of Paragraphs](./set-the-line-height-of-paragraphs.md)
+* [Adjust the Hover State of an Anchor Tag](./adjust-the-hover-state-of-an-anchor-tag.md)
+* [Change an Element's Relative Position](./change-an-elements-relative-position.md)
 
 
 [[/index.md | Home]]
