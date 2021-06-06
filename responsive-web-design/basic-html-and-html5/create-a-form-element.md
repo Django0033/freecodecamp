@@ -37,4 +37,4 @@ For example:
 </main>
 ```
 
-[Basic HTML and HTML5](./basic-html-and-html5.md) | [Responsive Web Design](/responsive-web-design/responsive-web-design.md)
+[Basic HTML and HTML5](../basic-html-and-html5.md) | [Responsive Web Design](/responsive-web-design/responsive-web-design.md)

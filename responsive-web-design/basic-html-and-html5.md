@@ -15,11 +15,11 @@
 - [[/freecodecamp/responsive-web-design/basic-html-and-html5/make-dead-links-using-the-hash-symbol.md | Make Dead Links Using the Hash Symbol]]
 - [[/freecodecamp/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link.md | Turn on Image into a Link]]
 - [[/freecodecamp/responsive-web-design/basic-html-and-html5/create-a-bulleted-unordered-list.md | Create a Bulleted Unordered List]]
-- [Create an Ordered List](./create-an-ordered-list.md)
-- [Create a Text Field](./create-a-text-field.md)
-- [Add Placeholder Text to a Text Field](./add-placeholder-text-to-a-text-field.md)
-- [Create a Form Element](./create-a-form-element.md)
-- [Add a Submit Button to a Form](./add-a-submit-button-to-a-form)
-- [Use HTML5 to Require a Field](./use-html5-to-require-a-field.md)
+- [Create an Ordered List](basic-html-and-html5/create-an-ordered-list.md)
+- [Create a Text Field](basic-html-and-html5/create-a-text-field.md)
+- [Add Placeholder Text to a Text Field](basic-html-and-html5/add-placeholder-text-to-a-text-field.md)
+- [Create a Form Element](basic-html-and-html5/create-a-form-element.md)
+- [Add a Submit Button to a Form](basic-html-and-html5/add-a-submit-button-to-a-form.md)
+- [Use HTML5 to Require a Field](basic-html-and-html5/use-html5-to-require-a-field.md)
 
 [[/index.md | Home]]
