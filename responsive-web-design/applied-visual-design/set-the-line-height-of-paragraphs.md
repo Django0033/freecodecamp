@@ -16,4 +16,4 @@ CSS offers the `line-height` property to change the height of each line in a blo
 </p>
 ```
 
-[Responsive Web Design](/responsive-web-design/responsive-web-design.md) | [Applied Visual Design](./applied-visual-design.md)
+[Responsive Web Design](/responsive-web-design/responsive-web-design.md) | [Applied Visual Design](../applied-visual-design.md)
