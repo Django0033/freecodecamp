@@ -8,7 +8,7 @@ I created this repository by 3 reasons:
 > 2. I just learn about `.md` files and now I take my "notes" in them (they are no "notes" cause I'm practicing Dvorak and I wanted some kind of challenge so I decided to transcript all the courses I'm following).
 > 3. I'm learning how to use GitHub so I think that this is a pretty good way to practice.
 
-If you are a new coder like  me and you find this use full, use it to your own benefit (just let me know by saying hi in some way), and if you are a master-duster-buster-two-coder or just wanna help the new ones to learn, please ad some material and advices; I will totally appreciate it.
+If you are a new coder like  me and you find this use full, use it to your own benefit (just let me know by saying hi in some way), and if you are a master-duster-buster-two-coder or just wanna help the new ones to learn, please add some material and advices; I will totally appreciate it.
 
 May the force be with you...<br>
 Live long and prosper...<br>
