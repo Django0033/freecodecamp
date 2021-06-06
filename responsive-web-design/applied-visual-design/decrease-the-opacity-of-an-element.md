@@ -58,6 +58,4 @@ The value given will apply to the entire element, whether that's an image with s
 </div>
 ```
 
-
-
-[[/index.md | Home]] [[/freecodecamp/responsive-web-design/responsive-web-design.md | Responsive Web Design]]
+[Applied Visual Design](/responsive-web-design/applied-visual-design.md) | [Responsive Web Design](/responsive-web-design.md)

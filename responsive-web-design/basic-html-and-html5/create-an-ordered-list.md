@@ -39,6 +39,4 @@ would create a numbered list of Garfield and Sylvester.
 </main>
 ```
 
-
-
-[[/index.md | Home]] [[/freecodecamp/responsive-web-design/responsive-web-design.md | Responsive Web Design]]
+[Basic HTML and HTML5](../basic-html-and-html5.md) | [Responsive Web Design](/responsive-web-design.md)

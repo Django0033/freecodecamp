@@ -45,7 +45,4 @@ To strikethrough text, which is when a horizontal line cuts across the character
 </div>
 ```
 
-
-
-
-[[/index.md | Home]] [[/freecodecamp/responsive-web-design/responsive-web-design.md | Responsive Web Design]]
+[Applied Visual Design](/responsive-web-design/applied-visual-design.md) | [Responsive Web Design](/responsive-web-design.md)

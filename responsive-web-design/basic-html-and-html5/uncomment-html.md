@@ -6,6 +6,4 @@ Commenting is also a convenient way to make code inactive without having to dele
 
 Comments in HTML start with `<!--` and end with a `-->`
 
-
-
-[[/index.md | Home]] [[/freecodecamp/responsive-web-design/responsive-web-design.md | Responsive Web Design]]
+[Basic HTML and HTML5](../basic-html-and-html5.md) | [Responsive Web Design](/responsive-web-design.md)

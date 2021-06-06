@@ -45,6 +45,4 @@ To make text bold, you can use the `strong` tag. This is often used to drow atte
 </div>
 ```
 
-
-
-[[/index.md | Home]] [[/freecodecamp/responsive-web-design/responsive-web-design.md | Responsive Web Design]]
+[Applied Visual Design](/responsive-web-design/applied-visual-design.md) | [Responsive Web Design](/responsive-web-design.md)

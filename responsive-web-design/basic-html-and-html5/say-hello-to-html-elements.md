@@ -30,7 +30,4 @@ Each challenge has tests you can run at any time by clicking the "Run tests" but
 <h1>Hello World</h1>
 ```
 
-
-
-
-[[/index.md | Home]] [[/freecodecamp/responsive-web-design/responsive-web-design.md | Responsive Web Design]]
+[Basic HTML and HTML5](../basic-html-and-html5.md) | [Responsive Web Design](/responsive-web-design.md)

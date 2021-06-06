@@ -45,6 +45,4 @@ To underline text, you can use the `u` tag. This is often used to signify that a
 </div>
 ```
 
-
-
-[[/index.md | Home]] [[/freecodecamp/responsive-web-design/responsive-web-design.md | Responsive Web Design]]
+[Applied Visual Design](/responsive-web-design/applied-visual-design.md) | [Responsive Web Design](/responsive-web-design.md)

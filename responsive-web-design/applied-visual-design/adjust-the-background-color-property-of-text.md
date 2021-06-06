@@ -58,6 +58,4 @@ You'll use `background-color: rgba(45, 45, 45, 0.1)` for this challenge. It prod
 </div>
 ```
 
-
-
-[[/index.md | Home]] [[/freecodecamp/responsive-web-design/responsive-web-design.md | Responsive Web Design]]
+[Applied Visual Design](/responsive-web-design/applied-visual-design.md) | [Responsive Web Design](/responsive-web-design.md)

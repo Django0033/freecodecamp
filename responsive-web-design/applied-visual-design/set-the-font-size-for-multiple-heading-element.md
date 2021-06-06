@@ -34,6 +34,4 @@ The `font-size` property is used to specify how large the text is in a given ele
 <h6>This is h6 text</h6>
 ```
 
-
-
-[[/index.md | Home]] [[/freecodecamp/responsive-web-design/responsive-web-design.md | Responsive Web Design]]
+[Applied Visual Design](/responsive-web-design/applied-visual-design.md) | [Responsive Web Design](/responsive-web-design.md)

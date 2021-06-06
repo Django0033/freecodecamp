@@ -28,6 +28,4 @@ Note: Many of the new HTML5 tags and their benefits are covered in the Applied A
 </main>
 ```
 
-
-
-[[/index.md | Home]] [[/freecodecamp/responsive-web-design/responsive-web-design.md | Responsive Web Design]]
+[Basic HTML and HTML5](../basic-html-and-html5.md) | [Responsive Web Design](/responsive-web-design.md)
