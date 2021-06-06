@@ -26,4 +26,4 @@ a:hover {
 <a href="https://freecatphotoapp.com/" target="_blank">CatPhotoApp</a>
 ```
 
-[Responsive Web Design](../responsive-web-design.md) | [Applied Visual Design](../applied-visual-design.md)
+[Applied Visual Design](../applied-visual-design.md) | [Responsive Web Design](/responsive-web-design.md)

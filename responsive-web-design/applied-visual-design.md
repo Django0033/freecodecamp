@@ -20,5 +20,4 @@
 * [Adjust the Hover State of an Anchor Tag](applied-visual-design/adjust-the-hover-state-of-an-anchor-tag.md)
 * [Change an Element's Relative Position](applied-visual-design/change-an-elements-relative-position.md)
 
-
-[[/index.md | Home]]
+[Responsive Web Design](/responsive-web-design.md)

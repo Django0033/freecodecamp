@@ -85,5 +85,4 @@ box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px rgba(0, 0, 0, 0.23);
 </div>
 ```
 
-[[/index.md | Home]] [[/freecodecamp/responsive-web-design/responsive-web-design.md | Responsive Web Design]]
-[Home](/responsive-web-design/responsive-web-design.md)
+[Applied Visual Design](/responsive-web-design/applied-visual-design.md) | [Responsive Web Design](/responsive-web-design.md)

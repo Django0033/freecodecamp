@@ -32,4 +32,4 @@ Note: Positioning gives you a lot of flexibility and power over the visual layou
 </body>
 ```
 
-[Responsive Web Design](../responsive-web-design.md) | [Applied Visual Design](../applied-visual-design.md)
+[Applied Visual Design](../applied-visual-design.md) | [Responsive Web Design](/responsive-web-design.md)

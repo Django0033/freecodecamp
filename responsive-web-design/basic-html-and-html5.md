@@ -22,4 +22,4 @@
 - [Add a Submit Button to a Form](basic-html-and-html5/add-a-submit-button-to-a-form.md)
 - [Use HTML5 to Require a Field](basic-html-and-html5/use-html5-to-require-a-field.md)
 
-[[/index.md | Home]]
+[Responsive Web Design](/responsive-web-design.md)
