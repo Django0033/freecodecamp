@@ -13,7 +13,7 @@
 - [Link to Internal Sections of a Page with Anchor Elements](basic-html-and-html5/link-to-internal-sections-of-a-page-with-anchor-elements.md)
 - [Nest an Anchor Element within a Paragraph](basic-html-and-html5/nest-an-anchor-element-within-a-paragragh.md)
 - [Make Dead Links Using the Hash Symbol](basic-html-and-html5/make-dead-links-using-the-hash-symbol.md)
-- [Turn on Image into a Link](basic-html-and-html5/turn-an-image-into-a-link.md)
+- [Turn an Image into a Link](basic-html-and-html5/turn-an-image-into-a-link.md)
 - [Create a Bulleted Unordered List](basic-html-and-html5/create-a-bulleted-unordered-list.md)
 - [Create an Ordered List](basic-html-and-html5/create-an-ordered-list.md)
 - [Create a Text Field](basic-html-and-html5/create-a-text-field.md)
