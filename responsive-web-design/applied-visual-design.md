@@ -19,5 +19,8 @@
 * [Set the line-height of Paragraphs](applied-visual-design/set-the-line-height-of-paragraphs.md)
 * [Adjust the Hover State of an Anchor Tag](applied-visual-design/adjust-the-hover-state-of-an-anchor-tag.md)
 * [Change an Element's Relative Position](applied-visual-design/change-an-elements-relative-position.md)
+* [Move a Relative Positioned Element with CSS Offsets](applied-visual-design/move-a-relatively-positioned-element-with-css-offsets.md)
+* [Lock an Element to its Parent with Absolute Positioning](applied-visual-design/lock-an-element-to-its-parent-with-absolute-positioning.md)
+* [Lock an Elment to the Browser Window with Fixed Positioning](applied-visual-design/lock-an-element-to-the-browser-window-with-fixed-positioning.md)
 
 [Responsive Web Design](/responsive-web-design.md)

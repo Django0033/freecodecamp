@@ -1,6 +1,6 @@
 # Use the text-transform Property to Make Text Uppercase
 
-The `text-transform` property in CSS is used to change the appearance of text. It's a convenient way to make sure text on a webpage appears cosistently, without having to change the text content of the actual HTML elements.
+The `text-transform` property in CSS is used to change the appearance of text. It's a convenient way to make sure text on a webpage appears consistently, without having to change the text content of the actual HTML elements.
 
 The following table shows how the different `text-transform` values change the example text "Transform me".
 

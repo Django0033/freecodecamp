@@ -1,6 +1,6 @@
 # Create Visual Balance Using the text-align Property
 
-This section of the curriculum focuses on Applied Visual Design. The first group of challenges build on the given card layout to show a number of core principles.
+This section of the curriculum focuses on Applied Visual Design. The first group of challenges builds on the given card layout to show some core principles.
 
 Text is often a large part of web content. CSS has several options for how to align it with the `text-align` property.
 

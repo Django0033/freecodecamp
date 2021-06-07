@@ -4,8 +4,8 @@ The `box-shadow` property applies one or more shadows to an element.
 
 The `box-shadow` property takes values for
 
-- `offset-x` (how far to push the shadow horizontaly from tho element),
-- `offset-y` (how for to push the shadow vertically from the element),
+- `offset-x` (how far to push the shadow horizontally from tho element),
+- `offset-y` (how far to push the shadow vertically from the element),
 - `blur-radius`,
 - `spread-radius` and
 - `color`, in that order.

@@ -1,6 +1,6 @@
 # Use the em Tag to Italicize Text
 
-To emghasize text, you can use the `em` tag. This displays text as italicized, as the browser applies the CSS of `font-style: italic; to the element.
+To emphasize text, you can use the `em` tag. This displays text as italicized, as the browser applies the CSS of `font-style: italic; to the element.
 
 # Example
 

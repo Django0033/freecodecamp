@@ -1,6 +1,6 @@
 # Adjust the background-color Property of Text
 
-Instead of adjusting your overall bacground or the color of the text to make the forreground easily readable, you can add a `background-color` to the element holding the text you want to emphasize. This challenge uses `rgba()` instead of `hex` codel or normal `rgb()`.
+Instead of adjusting your overall background or the color of the text to make the foreground easily readable, you can add a `background-color` to the element holding the text you want to emphasize. This challenge uses `rgba()` instead of `hex` codel or normal `rgb()`.
 
 > rgba stands for:<br>
 	r = red<br>
