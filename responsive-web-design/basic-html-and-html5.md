@@ -21,5 +21,8 @@
 - [Create a Form Element](basic-html-and-html5/create-a-form-element.md)
 - [Add a Submit Button to a Form](basic-html-and-html5/add-a-submit-button-to-a-form.md)
 - [Use HTML5 to Require a Field](basic-html-and-html5/use-html5-to-require-a-field.md)
+- [Create a Set of Radio Buttons](basic-html-and-html5/create-a-set-of-radio-buttons.md)
+- [Create a Set of Checkboxes](basic-html-and-html5/create-a-set-of-checkboxes.md)
+- [Use the Value attribute with Radio Buttons and Checkboxes](basic-html-and-html5/use-the-value-attibute-with-radio-buttons-and-checkboxes.md)
 
 [Responsive Web Design](/responsive-web-design.md)

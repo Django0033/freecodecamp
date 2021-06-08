@@ -22,5 +22,8 @@
 * [Move a Relative Positioned Element with CSS Offsets](applied-visual-design/move-a-relatively-positioned-element-with-css-offsets.md)
 * [Lock an Element to its Parent with Absolute Positioning](applied-visual-design/lock-an-element-to-its-parent-with-absolute-positioning.md)
 * [Lock an Elment to the Browser Window with Fixed Positioning](applied-visual-design/lock-an-element-to-the-browser-window-with-fixed-positioning.md)
+* [Push Elements Left or Right with the float Property](applied-visual-design/push-elements-left-or-right-with-the-float-property.md)
+* [Change the Position of Overlapping Elements with the z-index Property](applied-visual-design/change-the-position-of-overlapping-elements-with-the-z-index-property.md)
+* [Center an Element Horizontally Using the margin Property](applied-visual-design/center-an-element-horizontally-using-the-margin-property.md)
 
 [Responsive Web Design](/responsive-web-design.md)
