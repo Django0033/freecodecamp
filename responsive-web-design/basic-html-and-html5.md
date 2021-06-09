@@ -24,5 +24,8 @@
 - [Create a Set of Radio Buttons](basic-html-and-html5/create-a-set-of-radio-buttons.md)
 - [Create a Set of Checkboxes](basic-html-and-html5/create-a-set-of-checkboxes.md)
 - [Use the Value attribute with Radio Buttons and Checkboxes](basic-html-and-html5/use-the-value-attibute-with-radio-buttons-and-checkboxes.md)
+- [Nest Many Elements within a Single div Element](basic-html-and-html5/nest-many-elements-within-a-single-div-element.md)
+- [Declare the Doctype of an HTML Document](basic-html-and-html5/declare-the-doctype-of-an-html-document.md)
+- [Define the Head and Body of an HTML Document](basic-html-and-html5/define-the-head-and-body-of-an-html-document.md)
 
 [Responsive Web Design](/responsive-web-design.md)
