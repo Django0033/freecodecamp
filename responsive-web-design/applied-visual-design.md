@@ -26,5 +26,7 @@
 * [Change the Position of Overlapping Elements with the z-index Property](applied-visual-design/change-the-position-of-overlapping-elements-with-the-z-index-property.md)
 * [Center an Element Horizontally Using the margin Property](applied-visual-design/center-an-element-horizontally-using-the-margin-property.md)
 * [Learn About Complementary Colors](applied-visual-design/learn-about-complementary-colors.md)
+* [Learn About Tertiary Colors](applied-visual-design/learn-about-tertiary-colors.md)
+* [Adjust the Color of Various Elements to Complementary Colors](applied-visual-design/adjust-the-color-of-various-element-to-complementary-colors.md)
 
 [Responsive Web Design](/responsive-web-design.md)
