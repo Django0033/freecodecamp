@@ -6,5 +6,8 @@
 * [Style Multiple Elements with a CSS Class](basic-css/style-multiple-elements-with-a-css-class.md)
 * [Change the Font Size of an Element](basic-css/change-the-font-size-of-an-element.md)
 * [Set the Font Family of an Element](basic-css/set-the-font-family-of-an-element.md)
+* [Import a Google Font](basic-css/import-a-google-font.md)
+* [Specify How Fonts Should Degrade](basic-css/specify-how-fonts-should-degrade.md)
+* [Size Your Images](basic-css/size-your-images.md)
 
 [Responsive Web Design](/responsive-web-design.md)

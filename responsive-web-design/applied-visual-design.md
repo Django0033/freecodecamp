@@ -29,5 +29,6 @@
 * [Learn About Tertiary Colors](applied-visual-design/learn-about-tertiary-colors.md)
 * [Adjust the Color of Various Elements to Complementary Colors](applied-visual-design/adjust-the-color-of-various-element-to-complementary-colors.md)
 * [Adjust the Hue of a Color](applied-visual-design/adjust-the-hue-of-a-color.md)
+* [Adjust the Tone of a Color](applied-visual-design/adjust-the-tone-of-a-color.md)
 
 [Responsive Web Design](/responsive-web-design.md)
