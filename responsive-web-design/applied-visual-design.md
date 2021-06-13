@@ -30,5 +30,6 @@
 * [Adjust the Color of Various Elements to Complementary Colors](applied-visual-design/adjust-the-color-of-various-element-to-complementary-colors.md)
 * [Adjust the Hue of a Color](applied-visual-design/adjust-the-hue-of-a-color.md)
 * [Adjust the Tone of a Color](applied-visual-design/adjust-the-tone-of-a-color.md)
+* [Create a Gradual CSS Linear Gradient](applied-visual-design/create-a-gradual-css-linear-gradient.md)
 
 [Responsive Web Design](/responsive-web-design.md)

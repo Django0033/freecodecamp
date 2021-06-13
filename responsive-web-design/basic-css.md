@@ -9,5 +9,8 @@
 * [Import a Google Font](basic-css/import-a-google-font.md)
 * [Specify How Fonts Should Degrade](basic-css/specify-how-fonts-should-degrade.md)
 * [Size Your Images](basic-css/size-your-images.md)
+* [Add Borders around Your Elements](basic-css/add-border-around-your-elements.md)
+* [Add Rounded Corners with border-radius](basic-css/add-rounded-corners-with-border-radius.md)
+* [Make Circular Images with a border-radius](basic-css/make-circular-images-with-a-border-radius.md)
 
 [Responsive Web Design](/responsive-web-design.md)
