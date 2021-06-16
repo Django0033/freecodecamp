@@ -32,5 +32,6 @@
 * [Adjust the Tone of a Color](applied-visual-design/adjust-the-tone-of-a-color.md)
 * [Create a Gradual CSS Linear Gradient](applied-visual-design/create-a-gradual-css-linear-gradient.md)
 * [Use a CSS Linear Gradient to Create a Striped Element](applied-visual-design/use-a-css-linear-gradient-to-create-a-striped-element.md)
+* [Create Texture by Adding a Subtle Pattern as a Background Image](applied-visual-design/create-texture-by-adding-a-subtle-pattern-as-a-background-image.md)
 
 [Responsive Web Design](/responsive-web-design.md)

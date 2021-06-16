@@ -15,5 +15,8 @@
 * [Give a Background Color to a div Element](basic-css/give-a-background-color-to-a-div-element.md)
 * [Set the id of an Element](basic-css/set-the-id-of-an-element.md)
 * [Use an id Attribute to Style an Element](basic-css/use-an-id-attribute-to-style-an-element.md)
+* [Adjust the Padding of an Element](basic-css/adjust-the-padding-of-an-element.md)
+* [Adjust the Margin of an Element](basic-css/adjust-the-margin-of-an-element.md)
+* [Add a Negative Margin to an Element](basic-css/add-a-negative-margin-to-an-element.md)
 
 [Responsive Web Design](/responsive-web-design.md)
