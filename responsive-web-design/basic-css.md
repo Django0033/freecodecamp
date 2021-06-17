@@ -18,5 +18,8 @@
 * [Adjust the Padding of an Element](basic-css/adjust-the-padding-of-an-element.md)
 * [Adjust the Margin of an Element](basic-css/adjust-the-margin-of-an-element.md)
 * [Add a Negative Margin to an Element](basic-css/add-a-negative-margin-to-an-element.md)
+* [Add Different Padding to Each Side of an Element](basic-css/add-different-padding-to-each-side-of-an-element.md)
+* [Add Different Margins to Each Side of an Element](basic-css/add-different-margins-to-each-side-of-an-element.md)
+* [Use Clockwise Notation to Specify the Padding of an Element](basic-css/use-clockwise-notation-to-specify-the-padding-of-an-element.md)
 
 [Responsive Web Design](/responsive-web-design.md)
