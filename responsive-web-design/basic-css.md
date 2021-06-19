@@ -21,5 +21,8 @@
 * [Add Different Padding to Each Side of an Element](basic-css/add-different-padding-to-each-side-of-an-element.md)
 * [Add Different Margins to Each Side of an Element](basic-css/add-different-margins-to-each-side-of-an-element.md)
 * [Use Clockwise Notation to Specify the Padding of an Element](basic-css/use-clockwise-notation-to-specify-the-padding-of-an-element.md)
+* [Use Clockwise Notation to Specify the Margin of an Element](basic-css/use-clockwise-notation-to-specify-the-margin-of-an-element.md)
+* [Use Attribute Selectors to Style Elements](basic-css/use-attribute-selectors-to-style-elements.md)
+* [Understand Absolute versus Relative Units](basic-css/understand-absolute-versus-relative-units.md)
 
 [Responsive Web Design](/responsive-web-design.md)

@@ -34,5 +34,6 @@
 * [Use a CSS Linear Gradient to Create a Striped Element](applied-visual-design/use-a-css-linear-gradient-to-create-a-striped-element.md)
 * [Create Texture by Adding a Subtle Pattern as a Background Image](applied-visual-design/create-texture-by-adding-a-subtle-pattern-as-a-background-image.md)
 * [Use the CSS Transform scale Property to Change the Size of an Element](applied-visual-design/use-the-css-transform-scale-property-to-change-the-size-of-an-element.md)
+* [Use the CSS Transform scale Property to Scale an Element on Hover](applied-visual-design/use-the-css-transform-scale-property-to-scale-an-element-on-hover.md)
 
 [Responsive Web Design](/responsive-web-design.md)
