@@ -1,0 +1,22 @@
+# Inherit Styles from the Body Element
+
+Now we've proven that every HTML page has a `body` element and that its `body` element can also be styled with CSS.
+
+Remember, you can style your `body` element just like any other HTML element, and all your other elements will inherit your `body` element's styles.
+
+## Example
+
+```html
+<style>
+  body {
+    background-color: black;
+    color: green;
+    font-family: monospace;
+  }
+
+</style>
+
+<h1>Hello World</h1>
+```
+
+[Basic CSS](../basic-css.md) | [Responsive Web Design](../../responsive-web-design.md)
