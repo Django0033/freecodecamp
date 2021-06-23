@@ -37,5 +37,11 @@
 * [Use the CSS Transform scale Property to Scale an Element on Hover](applied-visual-design/use-the-css-transform-scale-property-to-scale-an-element-on-hover.md)
 * [Use the CSS Transform Property skewX to Skew an Element Along the X-Axis](applied-visual-design/use-the-css-transform-property-skewx-to-skew-an-element-along-the-x-axis.md)
 * [Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis](applied-visual-design/use-the-css-transform-property-skewy-to-skew-an-element-along-the-y-axis.md)
+* [Create a Graphic Using CSS](applied-visual-design/create-a-graphic-using-css.md)
+* [Create a More Complex Shape Using CSS and HTML](applied-visual-design/create-a-more-complex-shape-using-css-and-html.md)
+* [Learn How the CSS @keyframes and animation Properties Work](applied-visual-design/learn-how-the-css-keyframes-and-animation-properties-work.md)
+* [Use CSS Animation to Change the Hover State of a Button](applied-visual-design/use-css-animation-to-change-the-hover-state-of-a-button.md)
+* [Modify Fill Mode of an Animation](applied-visual-design/modify-fill-mode-of-an-animation.md)
+* [Create Movement Using CSS Animation](create-applied-visual-design/create-movement-using-css-animation.md)
 
 [Responsive Web Design](/responsive-web-design.md)
