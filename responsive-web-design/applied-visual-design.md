@@ -43,5 +43,8 @@
 * [Use CSS Animation to Change the Hover State of a Button](applied-visual-design/use-css-animation-to-change-the-hover-state-of-a-button.md)
 * [Modify Fill Mode of an Animation](applied-visual-design/modify-fill-mode-of-an-animation.md)
 * [Create Movement Using CSS Animation](create-applied-visual-design/create-movement-using-css-animation.md)
+* [Create Visual Direction by Fading an Element from Left to Right](applied-visual-design/create-visual-direction-by-fading-an-element-from-left-to-right.md)
+* [Animate Elements Continually Using an Infinite Animation Count](applied-visual-design/animate-elements-continually-using-an-infinite-animation-count.md)
+* [Make a CSS Heartbeat using an Infinite Animation Count](applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count.md)
 
 [Responsive Web Design](/responsive-web-design.md)
