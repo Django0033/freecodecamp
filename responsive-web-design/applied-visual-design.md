@@ -46,5 +46,8 @@
 * [Create Visual Direction by Fading an Element from Left to Right](applied-visual-design/create-visual-direction-by-fading-an-element-from-left-to-right.md)
 * [Animate Elements Continually Using an Infinite Animation Count](applied-visual-design/animate-elements-continually-using-an-infinite-animation-count.md)
 * [Make a CSS Heartbeat using an Infinite Animation Count](applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count.md)
+* [Animate Elements at Variable Rates](applied-visual-design/animate-elements-at-variable-rates.md)
+* [Animate Multiple Elements at Variable Rates](applied-visual-design/animate-multiple-elements-at-variable-rates.md)
+* [Change Animation Timing with Keywords](applied-visual-design/change-animation-timing-with-keywords.md)
 
 [Responsive Web Design](/responsive-web-design.md)
