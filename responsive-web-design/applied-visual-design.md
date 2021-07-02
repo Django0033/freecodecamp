@@ -49,5 +49,7 @@
 * [Animate Elements at Variable Rates](applied-visual-design/animate-elements-at-variable-rates.md)
 * [Animate Multiple Elements at Variable Rates](applied-visual-design/animate-multiple-elements-at-variable-rates.md)
 * [Change Animation Timing with Keywords](applied-visual-design/change-animation-timing-with-keywords.md)
+* [Learn How Bezier Curves Work](./applied-visual-design/learn-how-bezier-curves-work.md)
+* [Use a Bezier Curve to Move a Graphic](./applied-visual-design/use-a-bezier-curve-to-move-a-graphic.md)
 
 [Responsive Web Design](/responsive-web-design.md)
