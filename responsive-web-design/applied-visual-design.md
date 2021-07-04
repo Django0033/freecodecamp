@@ -51,5 +51,6 @@
 * [Change Animation Timing with Keywords](applied-visual-design/change-animation-timing-with-keywords.md)
 * [Learn How Bezier Curves Work](./applied-visual-design/learn-how-bezier-curves-work.md)
 * [Use a Bezier Curve to Move a Graphic](./applied-visual-design/use-a-bezier-curve-to-move-a-graphic.md)
+* [Make Motion More Natural Using a Bezier Curve](./applied-visual-design/make-motion-more-natural-using-a-bezier-curve.md)
 
 [Responsive Web Design](/responsive-web-design.md)
