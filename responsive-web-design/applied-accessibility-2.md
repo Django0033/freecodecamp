@@ -1,30 +1,34 @@
 # Applied Accessibility
 
 ## Table of Content
+<!-- vim-markdown-toc GFM -->
 
 * [Add a Text Alternative to Images for Visually Impaired Accessibility](#add-a-text-alternative-to-images-for-visually-impaired-accessibility)
-  * [Example](#example)
+    * [Example](#example)
 * [Know When Alt Text Should be Left Blank](#know-when-alt-text-should-be-left-blank)
-  * [Example](#example)
+    * [Example](#example-1)
 * [Use Heandings to Show Hierarchical Relationships of Content](#use-heandings-to-show-hierarchical-relationships-of-content)
-  * [Example](#example)
+    * [Example](#example-2)
 * [Jump Straight to the Content Using the main Element](#jump-straight-to-the-content-using-the-main-element)
-  * [Example](#example)
+    * [Example](#example-3)
 * [Wrap Content in the article Element](#wrap-content-in-the-article-element)
-  * [Example](#example)
+    * [Example](#example-4)
 * [Make Screen Reader Navigation Easier with the header Landmark](#make-screen-reader-navigation-easier-with-the-header-landmark)
-  * [Example](#example)
+    * [Example](#example-5)
 * [Make Screen Reader Navigation Easier with the nav Landmark](#make-screen-reader-navigation-easier-with-the-nav-landmark)
-  * [Example](#example)
+    * [Example](#example-6)
 * [Make Screen Reader Navigation Easier with the footer Landmark](#make-screen-reader-navigation-easier-with-the-footer-landmark)
-  * [Example](#example)
+    * [Example](#example-7)
 * [Improve Accessibility of Audio Content with the audio Element](#improve-accessibility-of-audio-content-with-the-audio-element)
-  * [Example](#example)
+    * [Example](#example-8)
 * [Improve Chart Accessibility with the figure Element](#improve-chart-accessibility-with-the-figure-element)
-  * [Example](#example)
+    * [Example](#example-9)
 * [Improve Form Field Accessibility with the label Element](#improve-form-field-accessibility-with-the-label-element)
-  * [Example](#example)
+    * [Example](#example-10)
+* [Wrap Radio Buttons in a fieldset Element for Better Accessibility](#wrap-radio-buttons-in-a-fieldset-element-for-better-accessibility)
+    * [Example](#example-11)
 
+<!-- vim-markdown-toc -->
 ## Add a Text Alternative to Images for Visually Impaired Accessibility
 
 You've likely seen an `alt` attribute on an `img` tag in other challenges. `alt` text describes the image's content and provides a text-alternative for it. An `alt` attribute helps in cases where the image fails to load or can't be seen by a user. Search engines also use it to understand what an image contains to include it in search results. Here's an example:
