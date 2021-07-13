@@ -87,7 +87,7 @@ And `text-align: left;` (the default) left-aligns the text.
 </div>
 ```
 
-[Table of Content](#table-of content)
+[Table of Content](#table-of-content)
 
 ## Adjust the Width of an Element Using the width Property
 
@@ -139,7 +139,7 @@ img {
 ```
 
 
-[Table of Content](#table-of content)
+[Table of Content](#table-of-content)
 
 ## Adjust the Height of an Element Using the height Property
 
@@ -191,7 +191,7 @@ img {
 </div>
 ```
 
-[Table of Content](#table-of content)
+[Table of Content](#table-of-content)
 
 ## Use the strong Tag to Make Text Bold
 
@@ -240,7 +240,7 @@ To make text bold, you can use the `strong` tag. This is often used to draw atte
 </div>
 ```
 
-[Table of Content](#table-of content)
+[Table of Content](#table-of-content)
 
 ## Use the u Tag to Underline Text
 
@@ -289,7 +289,7 @@ To underline text, you can use the `u` tag. This is often used to signify that a
 </div>
 ```
 
-[Table of Content](#table-of content)
+[Table of Content](#table-of-content)
 
 ## Use the em Tag to Italicize Text
 
@@ -338,7 +338,7 @@ To emphasize text, you can use the `em` tag. This displays text as italicized, a
 </div>
 ```
 
-[Table of Content](#table-of content)
+[Table of Content](#table-of-content)
 
 ## Use the s Tag to Strikethrough Text
 
@@ -387,7 +387,7 @@ To strikethrough text, which is when a horizontal line cuts across the character
 </div>
 ```
 
-[Table of Content](#table-of content)
+[Table of Content](#table-of-content)
 
 ## Create a Horizontal Line Using the hr Element
 
@@ -437,7 +437,7 @@ You can use the `hr` tag to add a horizontal line across the width of its contai
 </div>
 ```
 
-[Table of Content](#table-of content)
+[Table of Content](#table-of-content)
 
 ## Adjust the background-color Property of Text
 
@@ -499,7 +499,7 @@ You'll use `background-color: rgba(45, 45, 45, 0.1)` for this challenge. It prod
 </div>
 ```
 
-[Table of Content](#table-of content)
+[Table of Content](#table-of-content)
 
 ## Adjust the Size of a Header Versus a Paragraph Tag
 
@@ -551,7 +551,7 @@ The font size of header tags (`h1` through `h6`) should generally be larger than
 </div>
 ```
 
-[Table of Content](#table-of content)
+[Table of Content](#table-of-content)
 
 ## Add a box-shadow to a Card-like Element
 
@@ -640,7 +640,7 @@ box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px rgba(0, 0, 0, 0.23);
 </div>
 ```
 
-[Table of Content](#table-of content)
+[Table of Content](#table-of-content)
 
 ## Decrease the Opacity of an Element
 
@@ -702,7 +702,7 @@ The value given will apply to the entire element, whether that's an image with s
 </div>
 ```
 
-[Table of Content](#table-of content)
+[Table of Content](#table-of-content)
 
 ## Use the text-transform Property to Make Text Uppercase
 
@@ -770,7 +770,7 @@ The following table shows how the different `text-transform` values change the e
 </div>
 ```
 
-[Table of Content](#table-of content)
+[Table of Content](#table-of-content)
 
 ## Set the font-size for Multiple Heading Elements
 
@@ -808,7 +808,7 @@ The `font-size` property is used to specify how large the text is in a given ele
 <h6>This is h6 text</h6>
 ```
 
-[Table of Content](#table-of content)
+[Table of Content](#table-of-content)
 
 ## Set the font-weight for Multiple Heading Elements
 
@@ -853,7 +853,7 @@ The `font-weight` property sets how thick or thin characters are in a section of
 <h6>This is h6 text</h6>
 ```
 
-[Table of Content](#table-of content)
+[Table of Content](#table-of-content)
 
 * [Set the font-size of Paragraph Text](applied-visual-design/set-the-font-size-of-paragraph-text.md)
 * [Set the line-height of Paragraphs](applied-visual-design/set-the-line-height-of-paragraphs.md)
