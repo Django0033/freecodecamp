@@ -8,37 +8,23 @@ In this course, you'll learn best practices for building webpages that are acces
 <!-- vim-markdown-toc GFM -->
 
 * [Add a Text Alternative to Images for Visually Impaired Accessibility](#add-a-text-alternative-to-images-for-visually-impaired-accessibility)
-    * [Example](#example)
 * [Know When Alt Text Should be Left Blank](#know-when-alt-text-should-be-left-blank)
-    * [Example](#example-1)
 * [Use Headings to Show Hierarchical Relationships of Content](#use-headings-to-show-hierarchical-relationships-of-content)
-    * [Example](#example-2)
 * [Jump Straight to the Content Using the main Element](#jump-straight-to-the-content-using-the-main-element)
-    * [Example](#example-3)
 * [Wrap Content in the article Element](#wrap-content-in-the-article-element)
-    * [Example](#example-4)
 * [Make Screen Reader Navigation Easier with the header Landmark](#make-screen-reader-navigation-easier-with-the-header-landmark)
-    * [Example](#example-5)
 * [Make Screen Reader Navigation Easier with the nav Landmark](#make-screen-reader-navigation-easier-with-the-nav-landmark)
-    * [Example](#example-6)
 * [Make Screen Reader Navigation Easier with the footer Landmark](#make-screen-reader-navigation-easier-with-the-footer-landmark)
-    * [Example](#example-7)
 * [Improve Accessibility of Audio Content with the audio Element](#improve-accessibility-of-audio-content-with-the-audio-element)
-    * [Example](#example-8)
 * [Improve Chart Accessibility with the figure Element](#improve-chart-accessibility-with-the-figure-element)
-    * [Example](#example-9)
 * [Improve Form Field Accessibility with the label Element](#improve-form-field-accessibility-with-the-label-element)
-    * [Example](#example-10)
 * [Wrap Radio Buttons in a fieldset Element for Better Accessibility](#wrap-radio-buttons-in-a-fieldset-element-for-better-accessibility)
-    * [Example](#example-11)
 * [Add an Accessible Date Picker](#add-an-accessible-date-picker)
-    * [Example](#example-12)
 * [Standardize Times with the HTML5 datetime Attribute](#standardize-times-with-the-html5-datetime-attribute)
-    * [Example](#example-13)
 * [Make Elements Only Visible to a Screen Reader by Using Custom CSS](#make-elements-only-visible-to-a-screen-reader-by-using-custom-css)
-    * [Example](#example-14)
 * [Improve Readability with High Contrast Text](#improve-readability-with-high-contrast-text)
-    * [Example](#example-15)
+* [Avoid Colorblindness Issues by Using Sufficient Contrast](#avoid-colorblindness-issues-by-using-sufficient-contrast)
+* [Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information](#avoid-colorblindness-issues-by-carefully-choosing-colors-that-convey-information)
 
 <!-- vim-markdown-toc -->
 ## Add a Text Alternative to Images for Visually Impaired Accessibility
@@ -53,7 +39,7 @@ People with visual impairments rely on screen readers to convert web content to 
 
 Good `alt` text provides the reader a brief description of the image. You should always include an `alt` attribute on your images. Per HTML5 specification, this is now considered mandatory.
 
-### Example
+**Example**
 
 ```HTML
 <!DOCTYPE html>
@@ -86,7 +72,7 @@ Background images usually fall under the `decorative` label as well. However, th
 
 _Note_: For images with a caption, you may still want to include `alt` text since it helps search engines catalog the image's content.
 
-### Example
+**Example**
 
 ```HTML
 <!DOCTYPE html>
@@ -136,7 +122,7 @@ One final point, each page should always hove one (and only one) `h1` element,
 which is the main subject of your content. This and the other headings are used
 in part by search engines to understand the topic of the page.
 
-### Example
+**Example**
 
 ```HTML
 <!DOCTYPE html>
@@ -176,7 +162,7 @@ The `main` element is used to wrap (you guessed it) the main content, and there 
 
 The `main` tag also has an embedded landmark feature that assistive technology can use to navigate to the main content quickly. If you've ever seen a "Jump to Main Content" link at the top of a page, using the `main` tag automatically gives assistive devices that functionality.
 
-### Example
+**Example**
 
 ```HTML
 <!DOCTYPE html>
@@ -209,7 +195,7 @@ Remember that folks using assistive technologies rely on organized semantically 
 
 `<div>` - groups content <section> - groups related content `<article>` - groups independent, self-contained content.
 
-### Example
+**Example**
 
 ```HTML
 <!DOCTYPE html>
@@ -266,7 +252,7 @@ The next HTML5 element that adds semantic meaning and improves accessibility is 
 
 **Note**: The `header` is meant for use in the `body` tag of your HTML document. It is different than the `head` element, which contains the page's title, meta information, etc.
 
-### Example
+**Example**
 
 ```HTML
 <!DOCTYPE html>
@@ -330,7 +316,7 @@ The `nav` element is another HTML5 item with the embedded landmark feature for e
 
 If there are repeated site links at the bottom of the page, it isn't necessary to markup those with a `nav` tag as well. Using a `footer` (covered in the next challenge) is sufficient.
 
-### Example
+**Example**
 
 ```HTML
 <!DOCTYPE html>
@@ -389,7 +375,7 @@ If there are repeated site links at the bottom of the page, it isn't necessary t
 
 Similar to `header` and `nav`, the `footer` element has a built-in landmark feature that allows assistive devices to quickly navigate to it. It's primarily used to contain copyright information or links to related documents that usually sit at the bottom of a page.
 
-### Example
+**Example**
 
 ```HTML
 <!DOCTYPE html>
@@ -474,7 +460,7 @@ Here's an example:
 ```
 **Note**: Multimedia content usually has both visual and auditory components. It needs synchronized captions ond a transcript so users with visual and/or auditory impairments can access it. Generally, a web developer is not responsible for creating the captions ro transcript, but needs to know to include them.
 
-### Example
+**Example**
 
 ```HTML
 <!DOCTYPE html>
@@ -517,7 +503,7 @@ Here's an example - note that the `figcaption` goes inside the `figure` tags and
 </figure>
 ```
 
-### Example
+**Example**
 
 ```HTML
 <!DOCTYPE html>
@@ -610,7 +596,7 @@ The value of the `for` attribute must be the same as the value of the `id` attri
 </form>
 ```
 
-### Example
+**Example**
 
 ```HTML
 <!DOCTYPE html>
@@ -694,7 +680,7 @@ Here's an example:
 </form>
 ```
 
-### Example
+**Example**
 
 ```HTML
 <!DOCTYPE html>
@@ -793,7 +779,7 @@ Here's an example:
 <input id="input1" type="date" name="input1">
 ```
 
-### Example
+**Example**
 
 ```HTML
 <!DOCTYPE html>
@@ -834,7 +820,7 @@ Here's an example:
 <p>Master Camper Cat officiated the cage match between Goro and Scorpion <time datetime="2013-02-13">last Wednesday</time>, which ended in a draw.</p>
 ```
 
-### Example
+**Example**
 
 ```HTML
 <!DOCTYPE html>
@@ -918,7 +904,7 @@ Here's an example of the CSS rules that accomplish this:
 * `display: none;` or `visibility: hidden;` hides content for everyone, including screen reader users.
 * Zero values for pixels sizes, such as `width: 0px; height: 0px;` removes that element from the flow of your document, meaning screen readers will ignore it.
 
-### Example
+**Example**
 
 ```HTML
 <!DOCTYPE html>
@@ -1040,7 +1026,7 @@ Low contrast between the foreground and background colors can make text difficul
 
 The Web Content Accessibility Guidelines (WCAG) recommend at least a 4.5 to 1 contrast ratio for normal text. The ratio is calculated by comparing the relative luminance values of two colors. This ranges form 1:1 far the same color, or no contrast, to 21:m for white against black, the most substantial contrast. There are many contrast checking tools available online that calculate this ratio for you.
 
-### Example
+**Example**
 
 ```HTML
 <!DOCTYPE html>
@@ -1081,3 +1067,81 @@ The Web Content Accessibility Guidelines (WCAG) recommend at least a 4.5 to 1 co
 
 * [Table of Content](#table-of-content)
 
+## Avoid Colorblindness Issues by Using Sufficient Contrast
+
+Color is a large part of visual design, but its use introduces two accessibility issues. First, color alone should not be used as the only way to convey important information because screen reader users won't se it. Second, foreground and background colors need sufficient contrast so colorblind users can distinguish them.
+
+Previous challenges covered having text alternatives to address the first issue. The last challenge introduced contrast checking tools to help with the second. The WCAG-recommended contrast ratio of 4.5:1 applies for color use as well as gray-scale combinations.
+
+Colorblind users have trouble distinguishing some colors from others - usually in hue but sometimes lightness as well. You may recall the contrast ratio is calculated using the relative luminance (or lightness) values of the foreground and background colors.
+
+In practice, the 4.5:1 contrast ratio can be reached by shading (adding black to) the darker color and tinting (adding white to)the lighter color. Darker shades on the color wheel are considered to be shades of blues, violets, magentas, and reds, whereas lighter tinted colors are oranges, yellows, greens, and blue-greens.
+
+**Example**
+
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Avoid Colorblindness Issues by Using Sufficient Contrast</title>
+    <style>
+        body {
+        color: hsl(0, 55%, 15%);
+        background-color: hsl(120, 25%, 55%);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Deep Thoughts with Master Camper Cat</h1>
+    </header>
+    <article>
+        <h2>A Word on the Recent Catnip Doping Scandal</h2>
+        <p>The influence that catnip has on feline behavior is well-documented, and its use as an herbal supplement in competitive ninja circles remains controversial. Once again, the debate to ban the substance is brought to ban the substance is brought to the public's attention after the high-profile win of Kittytron, a long-time proponent and user of the green stuff, at the Claw of Fury tournament.</p>
+        <p>As I've stated in the past, I firmly believe a true ninja's skills must come from within, with no external influences. My own catnip use shall continue as purely recreational</p>
+    </article>
+</body>
+</html>
+```
+
+* [Table of Content](#table-of-content)
+
+## Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information
+
+There are various forms of colorblindness. These can range from a reduced sensitivity to a certain wavelength of light to the inability to see color at all. The most common form is a reduced sensitivity to detect greens.
+
+For example, if two similar green colors are the foreground and background color of your content, a colorblind user may not be able to distinguish them. Close colors can be thought of as neighbors on the color wheel, and those combinations should be avoided when conveying important information.
+
+**Note**: Some online color picking tools include visual simulations of how colors appear for different types of colorblindness. These are great resources in addition to online contrast checking calculators.
+
+**Example**
+
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>
+            Avoid Colorblindness Issues by Carefully Choosing Colors that Convey
+            Information
+        </title>
+        <style>
+            button {
+                color: #003366;
+                background-color: #ffff33;
+                font-size: 14px;
+                padding: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>Danger!</h1>
+        </header>
+        <button>Delete Internet</button>
+    </body>
+</html>
+```
+
+* [Table of Content](#table-of-content)
