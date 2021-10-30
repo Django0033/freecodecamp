@@ -1,11 +1,14 @@
 # Applied Accessibility
 
-In web development, accessibility refers to web content and a UI (user interface) that can be understood, navigated, and interacted with by a broad audience. This includes people with visual, auditory, mobility, or cognitive disabilities.
+In web development, accessibility refers to web content and a UI (user
+interface) that can be understood, navigated, and interacted with by a broad
+audience. This includes people with visual, auditory, mobility, or cognitive
+disabilities.
 
-In this course, you'll learn best practices for building webpages that are accessible to everyone.
+In this course, you'll learn best practices for building webpages that are
+accessible to everyone.
 
 ## Table of Content
-<!-- vim-markdown-toc GFM -->
 
 * [Add a Text Alternative to Images for Visually Impaired Accessibility](#add-a-text-alternative-to-images-for-visually-impaired-accessibility)
 * [Know When Alt Text Should be Left Blank](#know-when-alt-text-should-be-left-blank)
@@ -25,8 +28,8 @@ In this course, you'll learn best practices for building webpages that are acces
 * [Improve Readability with High Contrast Text](#improve-readability-with-high-contrast-text)
 * [Avoid Colorblindness Issues by Using Sufficient Contrast](#avoid-colorblindness-issues-by-using-sufficient-contrast)
 * [Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information](#avoid-colorblindness-issues-by-carefully-choosing-colors-that-convey-information)
+* [Give Links Meaning by Using Descriptive Link Text](#give-links-meaning-by-using-descriptive-link-text)
 
-<!-- vim-markdown-toc -->
 ## Add a Text Alternative to Images for Visually Impaired Accessibility
 
 You've likely seen an `alt` attribute on an `img` tag in other challenges. `alt` text describes the image's content and provides a text-alternative for it. An `alt` attribute helps in cases where the image fails to load or can't be seen by a user. Search engines also use it to understand what an image contains to include it in search results. Here's an example:
@@ -1109,11 +1112,18 @@ In practice, the 4.5:1 contrast ratio can be reached by shading (adding black to
 
 ## Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information
 
-There are various forms of colorblindness. These can range from a reduced sensitivity to a certain wavelength of light to the inability to see color at all. The most common form is a reduced sensitivity to detect greens.
+There are various forms of colorblindness. These can range from a reduced
+sensitivity to a certain wavelength of light to the inability to see color at
+all. The most common form is a reduced sensitivity to detect greens.
 
-For example, if two similar green colors are the foreground and background color of your content, a colorblind user may not be able to distinguish them. Close colors can be thought of as neighbors on the color wheel, and those combinations should be avoided when conveying important information.
+For example, if two similar green colors are the foreground and background color
+of your content, a colorblind user may not be able to distinguish them. Close
+colors can be thought of as neighbors on the color wheel, and those combinations
+should be avoided when conveying important information.
 
-**Note**: Some online color picking tools include visual simulations of how colors appear for different types of colorblindness. These are great resources in addition to online contrast checking calculators.
+**Note**: Some online color picking tools include visual simulations of how
+colors appear for different types of colorblindness. These are great resources
+in addition to online contrast checking calculators.
 
 **Example**
 
@@ -1142,6 +1152,37 @@ For example, if two similar green colors are the foreground and background color
         <button>Delete Internet</button>
     </body>
 </html>
+```
+
+* [Table of Content](#table-of-content)
+
+## Give Links Meaning by Using Descriptive Link Text
+
+Screen reader users have various options for what type of content their device
+reads. These options include skipping to (or over) landmark elements, jumping to
+the main content, or getting a page summary from the headings. Another option is
+to only hear the links available on a page.
+
+Screen readers do this by reading the link text, or what's between the anchor
+(`a`) tags. Having a list of "click here" or "read more" links isn't helpful.
+Instead, use brief but descriptive text within the `a` tags to provide more
+meaning for these users.
+
+**Example**
+
+```HTML
+<body>
+    <header>
+        <h1>Deep Thoughts with Master Camper Cat</h1>
+    </header>
+    <article>
+        <h2>Defeating your Foe: the Red Dot is Ours!</h2>
+        <p>Felines the world over have been waging war on the most persistent of
+        foes. This red nemesis combines both cunning stealth and lightning
+        speed. But chin up, fellow fighters, our time for victory may soon be
+        near. Click here for <a href="">information about batteries</a></p>
+    </article>
+</body>
 ```
 
 * [Table of Content](#table-of-content)

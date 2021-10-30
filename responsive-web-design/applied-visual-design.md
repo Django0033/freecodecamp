@@ -1,8 +1,10 @@
 # Applied Visual Design
 
-Visual design is a combination of typography, color theory, graphics, animation, page layout, and more to help deliver your unique message.
+Visual design is a combination of typography, color theory, graphics, animation,
+page layout, and more to help deliver your unique message.
 
-In this course, you'll learn how to apply these different elements of visual design to your webpages.
+In this course, you'll learn how to apply these different elements of visual
+design to your webpages.
 
 ## Table of Content
 <!-- vim-markdown-toc GFM -->
@@ -63,11 +65,14 @@ In this course, you'll learn how to apply these different elements of visual des
 <!-- vim-markdown-toc -->
 ## Create Visual Balance Using the text-align Property
 
-This section of the curriculum focuses on Applied Visual Design. The first group of challenges builds on the given card layout to show some core principles.
+This section of the curriculum focuses on Applied Visual Design. The first group
+of challenges builds on the given card layout to show some core principles.
 
-Text is often a large part of web content. CSS has several options for how to align it with the `text-align` property.
+Text is often a large part of web content. CSS has several options for how to
+align it with the `text-align` property.
 
-`text-align: justify;` causes all lines of text except the last line to meet the left and right edges of the line box.
+`text-align: justify;` causes all lines of text except the last line to meet the
+left and right edges of the line box.
 
 `text-align: center;` centers the text.
 
